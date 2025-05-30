@@ -1,6 +1,6 @@
 CC = gcc
 CFLAGS = -Wall -Wextra -g
-TARGET = program
+TARGET = http_server
 SRC = main.c
 OBJ = $(SRC:.c=.o)
 

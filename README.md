@@ -1,6 +1,4 @@
-# C Project
-
-A simple C project with proper project structure and build system.
+# HTTP server impl in C
 
 ## Project Structure
 
